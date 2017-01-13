@@ -103,5 +103,5 @@ Pro/g/ramming Challanges [Made by Anonymous in January 2015]
 97  Little Man computer simulation
 98  Lisp interpreter
 99  Enigma simulator with a configuration file (+decrypt messages without knowing settings)
--------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
 Notes in parantheses next to individual problems may serve as an inspiration or a pointer where to look if you're lost or helpless.
