@@ -6,3 +6,5 @@ def string_converter(string):
 	
 new_string = input("Write a string that will be reversed: ")
 print("Reversed string is:", string_converter(new_string))
+
+## testing git repo
